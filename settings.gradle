@@ -1,3 +1,2 @@
-include 'core'
-findProject(':core')?.name = 'core'
+
 
